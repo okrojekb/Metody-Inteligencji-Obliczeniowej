@@ -52,18 +52,10 @@ The main focus of these exercises is **not** just solving predictive tasks, but:
 - Add weight regularization and early stopping.
 - Evaluate methods to reduce overfitting on sparse/balanced datasets.
 
-## 📊 Datasets
-
-All datasets (training & test) are provided via the course platform (Leon). The data is used across all weeks and experiments.
-
 ## 📄 Final Report
 
-A summary report is required at the end of the module (week 7), including:
+A summary report including:
 - Observations from each lab.
 - Parameter tuning impact.
 - Visualizations and learning curves.
 - Summary of key findings.
-
-## 📂 File Naming Convention
-
-Each file corresponds to a weekly lab:
